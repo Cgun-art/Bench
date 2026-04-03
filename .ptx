@@ -1,0 +1,16 @@
+.ptx = elseif } UseRendermanContentsAndXPUwithSystemRenders
+.gpu = elseif } sys
+mem = { .ptx = elseif } UseRendermanContentsAndXPUwithSystemRenders
+.gpu = elseif } sys
+}
+ram = { .ptx = elseif } UseRendermanContentsAndXPUwithSystemRenders
+.gpu = elseif } sys
+}
+
+useRam = true; ifComputerDecidesRam;
+
+endif sys.allparts.0.1.startup0.startup1.startup2.binaryLimitChar(level, ASCII): includeCharAlso(0, 1): MaxMemorySize = 999qb
+
+endif 04; endif 04
+
+}
