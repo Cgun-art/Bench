@@ -1,0 +1,7 @@
+Name = chgoofouofogiggiy8d88yd8
+Version = 2026
+Engine = Bench
+GAMEID = useVersion
+CUDA = true
+DLSS = false
+local /version.txt/
