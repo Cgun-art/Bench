@@ -1,0 +1,7 @@
+render = sys.render
+DLSS = false
+renderEngine = sys.render
+base = CPU
+intense = CPU
+randomAccessMemoryMinSize = 54b
+}
