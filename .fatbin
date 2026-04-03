@@ -1,0 +1,5 @@
+.bits = 512
+.filesystem = custom(customfs, maxsize999qb, filetrue, foldertrue, usefiledif)
+.render = RendermanXPU, sys.render
+
+}
