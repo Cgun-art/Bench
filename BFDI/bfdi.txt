@@ -1,0 +1,3 @@
+Brazil = Game
+French = Compiler
+DI = NVIDIA.CUDA
